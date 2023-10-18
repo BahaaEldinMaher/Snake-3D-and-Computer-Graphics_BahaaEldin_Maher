@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1641803294 source:c:\program files (x86)\codeblocks\projectsnake\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<time.h>
+	<bits/stdc++.h>
+	<conio.h>
+	<GL/glut.h>
+
+1426340040 d:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437547542 d:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
