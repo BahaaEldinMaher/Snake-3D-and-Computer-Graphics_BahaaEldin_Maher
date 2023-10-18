@@ -2,7 +2,7 @@
 
 Welcome to the Python Snake 3D and Computer Graphics project by BahaaEldin Maher!
 
-![Project Poster](./Snake-Game-poster.pptx)
+[Project Poster](./Snake-Game-poster.pptx)
 
 This project combines the classic Snake game with cutting-edge computer graphics, offering a unique and immersive gaming experience.
 
@@ -20,7 +20,7 @@ For a detailed project overview, please refer to the [2-Page Summary](./2-Page%2
 ## Project Poster
 Explore our visually appealing project poster for a quick glance at the project's key highlights.
 
-![Project Poster](./Snake-Game-poster.pptx)
+[Project Poster](./Snake-Game-poster.pptx)
 
 ## Report
 For a deep dive into the project, please refer to the [Project Report](./Snake%20Game%20Report.pdf). This comprehensive document covers the project's background, methodology, implementation details, and results.
