@@ -1,4 +1,4 @@
-# Python Snake 3D and Computer Graphics
+# Snake 3D and Computer Graphics
 
 Welcome to the Python Snake 3D and Computer Graphics project by BahaaEldin Maher!
 
